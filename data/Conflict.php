@@ -3,10 +3,6 @@
 namespace Data\one {
     class Conflict
     {
-        function lintang()
-        {
-            echo "lintang";
-        }
     }
 }
 
